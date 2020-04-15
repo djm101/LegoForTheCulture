@@ -1,2 +1,0 @@
-# LegoForTheCulture
-Created with CodeSandbox
